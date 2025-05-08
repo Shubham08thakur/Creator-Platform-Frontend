@@ -1,2 +1,2 @@
 // API URL configuration
-export const API_URL = 'http://localhost:5000/api'; 
+export const API_URL = 'https://creator-platform-backend-679j.onrender.com/api'; 
