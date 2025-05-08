@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <!-- Base circular background -->
+  <circle cx="96" cy="96" r="90" fill="#6200ea" />
+  
+  <!-- Content Creator Symbol (stylized C with broadcasting waves) -->
+  <path d="M96 60c-19.882 0-36 16.118-36 36s16.118 36 36 36c6.078 0 11.812-1.512 16.839-4.173" 
+        stroke="#ffffff" stroke-width="14" fill="none" stroke-linecap="round" />
+  
+  <!-- Broadcasting waves -->
+  <path d="M126 90c4.5 3 7.2 7.2 9 12" stroke="#ffffff" stroke-width="6" fill="none" stroke-linecap="round" />
+  <path d="M135 81c7.5 5.1 12 12.9 13.5 21" stroke="#ffffff" stroke-width="7.5" fill="none" stroke-linecap="round" />
+  <path d="M144 72c10.5 7.2 16.8 18.6 18 30" stroke="#ffffff" stroke-width="9" fill="none" stroke-linecap="round" />
+  
+  <!-- Plus/Create symbol -->
+  <circle cx="126" cy="120" r="24" fill="#ffffff" />
+  <rect x="111" y="117" width="30" height="6" fill="#6200ea" />
+  <rect x="123" y="105" width="6" height="30" fill="#6200ea" />
+</svg> 
