@@ -4,7 +4,7 @@ import axios from 'axios';
 
 export const AuthContext = createContext();
 
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://creator-platform-backend-2.onrender.com/api';
 
 // Create a hook to use the auth context
 export const useAuth = () => {
